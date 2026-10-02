@@ -4,3 +4,7 @@ __pycache__/
 .venv/
 .env
 *.csv
+
+!ventas-python/Walmart_Sales.csv
+!prestamos-python/loan_sanction_train.csv
+~$*.xlsx

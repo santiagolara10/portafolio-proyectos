@@ -1,23 +1,34 @@
-# Análisis comercial y financiero — Caso Los Robles
+# Análisis comercial y financiero: Los Robles
 
-Proyecto académico grupal del curso Excel para Negocios, LEAD University.
+**Proyecto académico grupal · Excel para Negocios · LEAD University**
+
+## Objetivo
+
+Analizar transacciones de una ferretería mediante funciones de Excel, comparar sucursales y evaluar escenarios de financiamiento e inversión.
 
 ## Mi contribución
-Soy Santiago Lara. En este trabajo participé en:
-- Estadísticas descriptivas para comparar ventas por sucursal.
-- Elaboración de tablas dinámicas y gráficos.
-- Cálculos financieros de cuotas, valor actual neto y tasa interna de retorno.
-- Elaboración de un informe individual de interpretación y propuestas comerciales (no incluido aquí).
 
-## Archivo
-[Descargar el libro de Excel](caso_los_robles.xlsx). Abrir en Microsoft Excel para consultar fórmulas, gráficos y tabla dinámica.
+Soy Santiago Lara. Mi participación incluyó estadísticas descriptivas, tablas dinámicas, gráficos y cálculos financieros. El trabajo fue realizado con Camila Marin y Yeremy Marin, sobre la plantilla y los datos del curso.
 
-El libro conserva la entrega grupal original, con la plantilla y las consignas del curso. Participaron Santiago Lara, Yeremy Marin y Camila Marin. Mi autoría no se extiende a todas las secciones, la plantilla docente ni los datos suministrados.
+## Qué contiene el trabajo
 
-Se trata de un caso académico, no de experiencia laboral en la empresa. El archivo no fue recalculado ni auditado integralmente durante la preparación de este portafolio.
+- Limpieza de códigos con `ESPACIOS` y búsqueda de productos con `BUSCARV`.
+- Clasificación de transacciones y resúmenes por sucursal.
+- Promedio, mediana, máximos, mínimos y desviación estándar.
+- Tabla dinámica de ventas y margen bruto, con filtro por trimestre.
+- Cálculo de cuotas, valor actual neto y tasa interna de retorno.
+- Tablero con gráficos y respuestas de interpretación comercial.
 
-## Revisión de consistencia
+## Hallazgos del caso
 
-La entrega conserva dos bases con importes diferentes: Reto1 suma ₡23.139.300 y Reto4 suma ₡23.287.723. El tablero combina ambas; debe confirmarse la base final antes de interpretar esos totales conjuntamente.
+En la base del Reto 1, Heredia concentra el mayor volumen de ventas: **₡11.204.100**. Sus compras individuales también presentan la mayor dispersión, por lo que conviene distinguir el ticket promedio de una compra típica.
 
-La tabla dinámica muestra divisiones entre cero en 20 márgenes de cruces sin ventas. Son casos no aplicables, no márgenes del 0%. El archivo conserva la entrega académica para permitir su revisión.
+La evaluación de inversión arroja un VAN de **−₡907.448** en el escenario conservador y **₡2.249.405** en el optimista, con una tasa de descuento del 14%. La recomendación depende del escenario que se materialice.
+
+## Explorar el archivo
+
+[Descargar el libro de Excel](caso_los_robles.xlsx)
+
+Abrir con Microsoft Excel para usar la tabla dinámica y el segmentador por trimestre. El tablero identifica la base utilizada en cada tabla: el curso proporciona datos propios para los retos 1 y 4. Los márgenes de combinaciones sin ventas se muestran como **n.a.** (no aplicable).
+
+Las cifras y propuestas corresponden a un caso académico. No representan resultados obtenidos en un empleo ni decisiones ejecutadas por la empresa.

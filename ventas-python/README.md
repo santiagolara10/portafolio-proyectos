@@ -1,29 +1,28 @@
-# Análisis exploratorio de ventas con Python
+# Análisis exploratorio de ventas
 
-**Autor:** Santiago Lara. Proyecto académico individual, Introducción a Ciencia de Datos, LEAD University.
+**Santiago Lara · Proyecto individual · LEAD University**
 
 ## Objetivo
-Explorar ventas semanales de tiendas, sus variaciones por período y su relación con semanas festivas y variables del entorno.
+
+Explorar cómo varían las ventas semanales entre tiendas y períodos, y describir su asociación con semanas festivas y variables del entorno.
 
 ## Trabajo realizado
-- Carga y revisión de datos, conversión de fechas y búsqueda de valores faltantes y duplicados.
+
+- Revisión de tipos, fechas, valores faltantes y duplicados.
 - Creación de variables temporales y agrupaciones por tienda, mes y trimestre.
-- Estadísticas descriptivas, distribuciones, correlaciones y gráficos comparativos.
-- Documentación del análisis en Jupyter Notebook.
+- Estadísticas descriptivas, distribuciones, correlaciones y nueve visualizaciones.
+- Comparación de la cobertura de cada año para evitar interpretar períodos parciales como años completos.
 
-## Archivos y ejecución
-El código está en [analisis_ventas.ipynb](analisis_ventas.ipynb).
+## Resultados
 
-El trabajo identifica como fuente el [Walmart Dataset de Kaggle](https://www.kaggle.com/datasets/yasserh/walmart-dataset). El CSV no se incluye. Obtenerlo de la fuente respetando sus condiciones y guardar `Walmart_Sales.csv` en esta carpeta.
+La muestra contiene **6.435 registros de 45 tiendas**, entre el 5 de febrero de 2010 y el 26 de octubre de 2012. La tienda 20 acumula el mayor volumen y las diez primeras reúnen el **39,1%** de las ventas de la muestra.
 
-Desde la raíz del repositorio:
-```sh
-python -m pip install -r requirements.txt
-python -m jupyter lab
-```
-Abrir el cuaderno y ejecutar sus celdas en orden.
+Las semanas marcadas como festivas tienen una venta media **7,8% superior** a las no festivas. La comparación describe una asociación; no mide un efecto causal. Las diferencias entre tiendas y períodos pueden orientar preguntas sobre inventario, pero requieren información adicional por producto y costos para formular una decisión comercial.
 
-## Alcance
-No se ejecutó nuevamente al preparar este portafolio, por ausencia del CSV original. Las dependencias no están fijadas ni se ha verificado su compatibilidad en un entorno nuevo.
+![Ventas semanales de las tiendas de la muestra](evolucion_ventas.png)
 
-Las comparaciones anuales requieren revisar que los períodos tengan igual cobertura. El indicador festivo no prueba un efecto causal. Las correlaciones describen asociación y no constituyen por sí solas una prueba de significancia. No se publican cifras de impacto comercial.
+## Ver el trabajo
+
+[Abrir el análisis completo, con código y gráficos](analisis_ventas.ipynb) · [Datos y fuente](DATOS.md)
+
+El archivo `Walmart_Sales.csv` está incluido. Para reproducir el análisis, seguir las instrucciones de la [página principal](../README.md).
