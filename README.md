@@ -2,7 +2,7 @@
 
 ### Ciencia de datos aplicada a negocios
 
-Estudio Ingeniería en Ciencia de Datos en **LEAD University** desde enero de 2026. Me interesa usar Python y Excel para explorar información comercial, comunicar hallazgos y apoyar decisiones de negocio.
+Estudio Ingeniería en Ciencia de Datos y Ciencias Empresariales en **LEAD University**. Inicié mis estudios en Ciencia de Datos en enero de 2026 y en Ciencias Empresariales en septiembre de 2026. Me interesa usar Python y Excel para explorar información comercial, comunicar hallazgos y apoyar decisiones de negocio.
 
 Busco una **pasantía en San José o Alajuela, Costa Rica**, compatible con mis estudios. Cuento con inglés avanzado y formación universitaria en fundamentos de negocios y técnicas de negociación.
 
@@ -31,4 +31,4 @@ Los dos datasets públicos necesarios están incluidos junto con sus fuentes y l
 
 ## Contacto
 
-[santilaram2008@gmail.com](mailto:santilaram2008@gmail.com) · [Perfil de GitHub](https://github.com/santiagolara10)
+[santilaram2008@gmail.com](mailto:santilaram2008@gmail.com)
