@@ -8,7 +8,7 @@ Analizar transacciones de una ferretería mediante funciones de Excel, comparar 
 
 ## Mi contribución
 
-Soy Santiago Lara. Mi participación incluyó estadísticas descriptivas, tablas dinámicas, gráficos y cálculos financieros. El trabajo fue realizado con Camila Marin y Yeremy Marin, sobre la plantilla y los datos del curso.
+Mi participación se centró en la limpieza y búsqueda de datos con ESPACIOS y BUSCARV, la elaboración de la tabla dinámica y los cálculos financieros de cuotas de préstamos, VAN y TIR. El trabajo fue realizado con Camila Marin y Yeremy Marin, sobre la plantilla y los datos del curso.
 
 ## Qué contiene el trabajo
 
