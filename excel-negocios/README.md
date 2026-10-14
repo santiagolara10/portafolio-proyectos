@@ -29,6 +29,8 @@ La evaluación de inversión arroja un VAN de **−₡907.448** en el escenario 
 
 [Descargar el libro de Excel](caso_los_robles.xlsx)
 
+[Leer mi análisis individual](PE2_Analisis_Version01_Lara_Santiago.pdf)
+
 Abrir con Microsoft Excel para usar la tabla dinámica y el segmentador por trimestre. El tablero identifica la base utilizada en cada tabla: el curso proporciona datos propios para los retos 1 y 4. Los márgenes de combinaciones sin ventas se muestran como **n.a.** (no aplicable).
 
 Las cifras y propuestas corresponden a un caso académico. No representan resultados obtenidos en un empleo ni decisiones ejecutadas por la empresa.
